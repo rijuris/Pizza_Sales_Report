@@ -6,26 +6,26 @@ The goal of this project is to analyze pizza sales data and derive key insights 
 
 SQL Queries
 A. KPIs
-Total Revenue:
-Average Order Value:
-Total Pizzas Sold:
-Total Orders:
-Average Pizzas Per Order:
+  Total Revenue:
+  Average Order Value:
+  Total Pizzas Sold:
+  Total Orders:
+  Average Pizzas Per Order:
 
 B. Daily and Monthly Trends
-Monthly Trend for Orders:
+  Monthly Trend for Orders:
 
 C. Sales Distribution
-% of Sales by Pizza Category:
-% of Sales by Pizza Size:
+  % of Sales by Pizza Category:
+  % of Sales by Pizza Size:
 
 D. Top and Bottom Performers
-Top 5 Pizzas by Revenue:
-Bottom 5 Pizzas by Revenue:
-Top 5 Pizzas by Quantity:
-Bottom 5 Pizzas by Quantity:
-Top 5 Pizzas by Total Orders:
-Bottom 5 Pizzas by Total Orders:
+  Top 5 Pizzas by Revenue:
+  Bottom 5 Pizzas by Revenue:
+  Top 5 Pizzas by Quantity:
+  Bottom 5 Pizzas by Quantity:
+  Top 5 Pizzas by Total Orders:
+  Bottom 5 Pizzas by Total Orders:
 
 Power BI Dashboard
 In addition to the SQL queries, the repository includes Power BI files that visualize the data and insights generated from the analysis. The Power BI dashboard provides interactive and dynamic visualizations for a comprehensive understanding of the pizza sales trends.
