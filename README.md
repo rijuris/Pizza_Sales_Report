@@ -1,33 +1,39 @@
-Pizza Sales Data Analysis
-This repository contains the SQL queries used for Exploratory Data Analysis (EDA) on a pizza sales dataset, along with the corresponding visualizations created using Power BI.
+# Pizza Sales Data Analysis
 
-Project Overview
-The goal of this project is to analyze pizza sales data and derive key insights into various aspects of the business. The analysis includes Key Performance Indicators (KPIs) and trends over time. The visualizations are created using both SQL queries and Power BI to present the data in an informative and visually appealing manner.
+## Overview
 
-SQL Queries
-A. KPIs
-  Total Revenue:
-  Average Order Value:
-  Total Pizzas Sold:
-  Total Orders:
-  Average Pizzas Per Order:
+This repository contains the SQL queries and Power BI files for analyzing pizza sales data. The project includes Key Performance Indicators (KPIs) and visualizations to provide insights into various aspects of the business.
 
-B. Daily and Monthly Trends
-  Monthly Trend for Orders:
+## Key Features
 
-C. Sales Distribution
-  % of Sales by Pizza Category:
-  % of Sales by Pizza Size:
+- **Total Revenue:** SQL query to calculate the total revenue from pizza sales.
+- **Average Order Value:** SQL query to calculate the average order value.
+- **Total Pizzas Sold:** SQL query to determine the total number of pizzas sold.
+- **Total Orders:** SQL query to count the total number of orders.
+- **Average Pizzas Per Order:** SQL query to calculate the average number of pizzas per order.
 
-D. Top and Bottom Performers
-  Top 5 Pizzas by Revenue:
-  Bottom 5 Pizzas by Revenue:
-  Top 5 Pizzas by Quantity:
-  Bottom 5 Pizzas by Quantity:
-  Top 5 Pizzas by Total Orders:
-  Bottom 5 Pizzas by Total Orders:
+## Daily and Monthly Trends
 
-Power BI Dashboard
-In addition to the SQL queries, the repository includes Power BI files that visualize the data and insights generated from the analysis. The Power BI dashboard provides interactive and dynamic visualizations for a comprehensive understanding of the pizza sales trends.
+- **Daily Trend for Total Orders:** SQL query for analyzing the daily trend of total orders.
+- **Monthly Trend for Orders:** SQL query for examining the monthly trend of orders.
 
-Feel free to explore the SQL queries and Power BI dashboard for a detailed analysis of the pizza sales data.
+## Sales Distribution
+
+- **% of Sales by Pizza Category:** SQL query to calculate the percentage of sales by pizza category.
+- **% of Sales by Pizza Size:** SQL query to determine the percentage of sales by pizza size.
+- **Total Pizzas Sold by Pizza Category (for a specific month):** SQL query to analyze the total pizzas sold by pizza category for a specific month.
+
+## Top and Bottom Performers
+
+- **Top 5 Pizzas by Revenue:** SQL query to identify the top 5 pizzas by revenue.
+- **Bottom 5 Pizzas by Revenue:** SQL query to find the bottom 5 pizzas by revenue.
+- **Top 5 Pizzas by Quantity:** SQL query to discover the top 5 pizzas by quantity sold.
+- **Bottom 5 Pizzas by Quantity:** SQL query to identify the bottom 5 pizzas by quantity sold.
+- **Top 5 Pizzas by Total Orders:** SQL query to list the top 5 pizzas by total orders.
+- **Bottom 5 Pizzas by Total Orders:** SQL query to list the bottom 5 pizzas by total orders.
+
+## Power BI Dashboard
+
+The repository includes Power BI files for interactive visualizations of the pizza sales data. The Power BI dashboard enhances the understanding of trends and patterns.
+
+
